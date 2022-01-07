@@ -1,0 +1,5 @@
+2022-01-07/20:15:44		[Errno 2] No such file or directory: 'self.schema_path'
+2022-01-07/20:17:35		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
+2022-01-07/20:21:18		LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 29
+
