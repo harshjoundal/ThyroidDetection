@@ -4,8 +4,7 @@ To build a classification methodology to predict the type of Thyroid based on th
 
 
 ## Architecture :
-
-![architecture.jpg](attachment:architecture.jpg)
+![architecture](https://user-images.githubusercontent.com/72031522/148693556-7bc02307-4e1e-4e0b-a7dc-afa5e649b46c.jpg)
 
 # Data Description
 
@@ -116,7 +115,7 @@ This is a workflow diagram for the prediction of using the trained model.
 Now let’s see the Thyroid  Detection project folder structure.
 
 
-![image.png](attachment:image.png)
+![folder_structure](https://user-images.githubusercontent.com/72031522/148693561-0c9c7cee-5f65-463d-a69a-a861038e56f1.png)
 
 
 requirements.txt file consists of all the packages that you need to deploy the app in the cloud.
@@ -125,7 +124,7 @@ requirements.txt file consists of all the packages that you need to deploy the a
 ----
 
 
-![image.png](attachment:image.png)
+![main](https://user-images.githubusercontent.com/72031522/148693562-8c1b4845-4aef-40f3-84ad-8a290a3eb379.png)
 
 main.py is the entry point of our application, where the flask server starts. 
 
@@ -133,27 +132,26 @@ main.py is the entry point of our application, where the flask server starts.
 
 ----
 
-![image.png](attachment:image.png)
+![predict](https://user-images.githubusercontent.com/72031522/148693565-14af3327-b556-41b2-ac96-8c814a8bbab1.png)
 
 This is the predictionFromModel.py file where the predictions take place based on the data we are giving input to the model.
 
 ---------
 
-![image.png](attachment:image.png)
+![yml](https://user-images.githubusercontent.com/72031522/148693709-5d410db3-c35b-4bbd-bcdb-b41e9b8a6868.png)
 
 
 
 manifest.yml:- This file contains the instance configuration, app name, and build pack language.
 
 ------
-
-![image.png](attachment:image.png)
+![proc](https://user-images.githubusercontent.com/72031522/148693567-b039a26c-b10e-4de8-a65b-5ef0137772dc.png)
 
 Procfile :- It contains the entry point of the app.
 
 -------
 
-![image.png](attachment:image.png)
+![runtime](https://user-images.githubusercontent.com/72031522/148693568-808456e5-801c-4586-9bd2-70187598b548.png)
 
 runtime.txt:- It contains the Python version number.
 
@@ -161,11 +159,10 @@ runtime.txt:- It contains the Python version number.
 
 # Now, I Deployed this project on pivptal web services and with the app link which is created we can run the app and predict the data through postman api testing
 
-![image.png](attachment:image.png)
 
 ---
 
-![image.png](attachment:image.png)
+![postman](https://user-images.githubusercontent.com/72031522/148693563-10791381-7089-4208-8642-0db3cde0f56d.png)
 
 ============================================================================================================
 
