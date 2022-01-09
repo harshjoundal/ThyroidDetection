@@ -5,7 +5,7 @@ To build a classification methodology to predict the type of Thyroid based on th
 
 # Architecture :
 
-![image.png](attachment:image.png)
+[![](image.png](attachment:image.png)
 
 # Data Description
 
