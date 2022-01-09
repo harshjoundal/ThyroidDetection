@@ -147,7 +147,7 @@ manifest.yml:- This file contains the instance configuration, app name, and buil
 
 ------
 
-![image.png](attachment:image.png)
+![alt text](attachment:image.png)
 
 Procfile :- It contains the entry point of the app.
 
