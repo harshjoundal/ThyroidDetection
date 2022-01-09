@@ -165,9 +165,9 @@ runtime.txt:- It contains the Python version number.
 ![postman](https://user-images.githubusercontent.com/72031522/148693563-10791381-7089-4208-8642-0db3cde0f56d.png)
 
 
-## Now it will read all batch files at the path provided by the client and export all the data in sql database and after that 
-## data from databese extracted in single csv file and clustering is done on data.for each cluster prediciton is done from best suited model.
-## and finally all prediction are saves at 'Prediction_Output_File' in csv format
+# Now it will read all batch files at the path provided by the client and export all the data in sql database and after that
+# data from databese extracted in single csv file and clustering is done on data.for each cluster prediciton is done from best suited model.
+# and finally all prediction are saves at 'Prediction_Output_File' in csv format
 
 ![predoutput](https://user-images.githubusercontent.com/72031522/148697530-4c8ac65d-abce-4536-93de-021fe85e3981.png)
 
